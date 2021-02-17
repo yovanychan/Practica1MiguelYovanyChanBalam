@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica1MiguelYovanyChanBalam</string>
+    <string name="saludo">Hola alumnos</string>
+    <string name="login">ingresar</string>
+    <string name="hint_name">usuario</string>
+    <string name="pass">contraseña</string>
+    <string name="entrar">entrar</string>
+</resources>
